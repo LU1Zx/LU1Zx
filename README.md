@@ -1,21 +1,17 @@
 ## Olá! Meu nome é Luiz Eduardo, estou estudando para ser Desenvolvedor Front-End. 
 
 <picture>
-  <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=LU1Zx&show_icons=true&theme=dark"media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=LU1Zx&show_icons=true"media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+<source srcset="https://github-readme-stats.vercel.app/api?username=LU1Zx&show_icons=true&theme=dark"media="(prefers-color-scheme: dark)" height="200"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=LU1Zx&show_icons=true" />
 </picture>
 
-a href="https://github.com/LU1Zx/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LU1Zx&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LU1Zx&repo=convoychat" />
-</a>
+<picture  >
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LU1Zx&layout=compact&show_icons=true&theme=dark"media="(prefers-color-scheme: dark)" height="200"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=LU1Zx&show_icons=true" />
+</picture>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="LU1Zx-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
