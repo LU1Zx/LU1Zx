@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LU1Zx&show_icons=true" />
 </picture>
 
-<picture  >
+<picture>
 <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LU1Zx&layout=compact&show_icons=true&theme=dark"media="(prefers-color-scheme: dark)" height="200"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=LU1Zx&show_icons=true" />
